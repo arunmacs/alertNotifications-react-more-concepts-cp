@@ -1,1 +1,8 @@
-/* Write your CSS here */
+.container {
+  height: 100vh;
+  overflow: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
